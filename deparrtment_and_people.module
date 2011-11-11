@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Deparrtment and People feature.
+ */
+
+include_once('deparrtment_and_people.features.inc');
